@@ -1,0 +1,11 @@
+_domain_topic	head:0.99996537   tail:0.99996907
+_part_of	head:0.99997085   tail:0.99997395
+_synset_domain_topic	head:0.9999683   tail:0.9999716
+_type_of	head:0.9999944   tail:0.999995
+_has_part	head:0.9999704   tail:0.99997354
+_subordinate_instance_of	head:0.99996805   tail:0.99997145
+_has_instance	head:1.0   tail:1.0
+_member_holonym	head:0.99997336   tail:0.99997616
+_domain_region	head:0.9999685   tail:0.99997187
+_similar_to	head:0.99996585   tail:0.9999695
+_member_meronym	head:0.9999734   tail:0.9999762

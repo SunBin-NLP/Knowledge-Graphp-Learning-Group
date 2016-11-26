@@ -1,0 +1,4 @@
+1 to 1	0
+1 to N	0
+N to 1	0
+N to N	11

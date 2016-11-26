@@ -1,0 +1,11 @@
+_domain_topic	0.96920335
+_part_of	0.8154181
+_synset_domain_topic	0.8880688
+_type_of	0.15641528
+_has_part	0.8284268
+_subordinate_instance_of	0.8946014
+_has_instance	0.0
+_member_holonym	0.7462176
+_domain_region	0.8809423
+_similar_to	0.9557705
+_member_meronym	0.7439552

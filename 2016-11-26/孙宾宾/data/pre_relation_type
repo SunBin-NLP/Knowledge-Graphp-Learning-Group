@@ -1,0 +1,11 @@
+_has_instance	type:1_to_n	entity_pairs:35361	head_entity:10174	tail_entity:31303
+_similar_to	type:1_to_1	entity_pairs:1564	head_entity:1165	tail_entity:1199
+_member_meronym	type:1_to_n	entity_pairs:9054	head_entity:4649	tail_entity:9001
+_domain_region	type:1_to_n	entity_pairs:4210	head_entity:349	tail_entity:4101
+_subordinate_instance_of	type:n_to_1	entity_pairs:3727	head_entity:3136	tail_entity:543
+_domain_topic	type:1_to_n	entity_pairs:1089	head_entity:135	tail_entity:1042
+_member_holonym	type:n_to_1	entity_pairs:8974	head_entity:8924	tail_entity:4637
+_synset_domain_topic	type:n_to_1	entity_pairs:3958	head_entity:3871	tail_entity:341
+_has_part	type:1_to_n	entity_pairs:6067	head_entity:2680	tail_entity:5533
+_part_of	type:n_to_1	entity_pairs:6527	head_entity:5808	tail_entity:3094
+_type_of	type:n_to_1	entity_pairs:29830	head_entity:27982	tail_entity:9397

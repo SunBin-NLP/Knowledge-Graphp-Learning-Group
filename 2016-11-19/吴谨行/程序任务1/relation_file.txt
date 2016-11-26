@@ -1,0 +1,11 @@
+1	_has_instance
+2	_similar_to
+3	_member_meronym
+4	_domain_region
+5	_subordinate_instance_of
+6	_domain_topic
+7	_member_holonym
+8	_synset_domain_topic
+9	_has_part
+10	_part_of
+11	_type_of

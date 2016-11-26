@@ -1,1 +1,2 @@
 # Knowledge-Graphp-Learning-Group
+该知识图谱小组由东北大学计算机科学与工程学院自然语言处理实验室导师任飞亮老师发起
